@@ -17,6 +17,10 @@ body{
     background-position: center;
 }
 
+.logo{
+    border-radius: 10px;
+    border-color: transparent;
+    }
 .wrapper{
     width: 420px;
     background: transparent;
@@ -131,8 +135,5 @@ body{
     .wrapper h1 {
         font-size: 28px; 
     }
-    .logo{
-    border-radius: 10px;
-    border-color: transparent;
-    }
+    
 }
