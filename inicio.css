@@ -121,3 +121,14 @@ body{
 .register-link p a:hover{
     text-decoration: underline;
 }
+
+@media (max-width: 480px) {
+    .wrapper {
+        width: 90%; /* Se adapta al ancho de la pantalla del celular */
+        padding: 20px;
+    }
+    
+    .wrapper h1 {
+        font-size: 28px; /* Texto un poco más pequeño para móviles */
+    }
+}
