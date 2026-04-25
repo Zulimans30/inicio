@@ -30,18 +30,6 @@ body{
     padding: 30px 40px;
 }
 
-.logo-container {
-    display: flex;
-    justify-content: center; 
-    margin-bottom: -10px;    
-    margin-top: 10px;
-    border-radius: 50px;
-}
-
-.logo-img {
-    max-width: 150px;      
-    height: auto;
-
 .wrapper h1 {
     font-size: 36px;
     text-align: center;
