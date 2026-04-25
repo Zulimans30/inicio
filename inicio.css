@@ -17,10 +17,13 @@ body{
     background-position: center;
 }
 
-.logo{
+img{
     border-radius: 10px;
     border-color: transparent;
+    width: 150px;
+    height: 150px;
     }
+
 .wrapper{
     width: 420px;
     background: transparent;
