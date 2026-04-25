@@ -124,11 +124,15 @@ body{
 
 @media (max-width: 480px) {
     .wrapper {
-        width: 90%; /* Se adapta al ancho de la pantalla del celular */
+        width: 90%; 
         padding: 20px;
     }
     
     .wrapper h1 {
-        font-size: 28px; /* Texto un poco más pequeño para móviles */
+        font-size: 28px; 
+    }
+    .logo{
+    border-radius: 10px;
+    border-color: transparent;
     }
 }
