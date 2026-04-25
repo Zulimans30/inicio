@@ -17,12 +17,6 @@ body{
     background-position: center;
 }
 
-img{
-    border-radius: 10px;
-    border-color: transparent;
-    width: 150px;
-    height: 150px;
-    }
 
 .wrapper{
     width: 420px;
@@ -34,6 +28,17 @@ img{
     border-radius: 10px;
     padding: 30px 40px;
 }
+
+.logo-container {
+    display: flex;
+    justify-content: center; 
+    margin-bottom: -10px;    
+    margin-top: 10px;      
+}
+
+.logo-img {
+    max-width: 150px;      
+    height: auto;
 
 .wrapper h1 {
     font-size: 36px;
